@@ -1,5 +1,4 @@
-# Energy-consumption-prediction-of-commercial-complex
-商业综合体能耗预测
+# 商业综合体能耗预测
 百度：https://aistudio.baidu.com/aistudio/competition/detail/139/0/introduction
 ###
 积极响应国家“碳达峰碳中和”双碳战略，致力于提高建筑的能耗效率，以降低成本并减少排放。降本减排需要一条最优的能耗估值，问题在于如何获得最优的能耗估值？常规做法是由能耗顾问基于专业经验与历史数据进行估计，但这种做法强依赖于顾问的专业能力与公司的历史数据，无法实现标准化。
